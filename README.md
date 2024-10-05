@@ -1,4 +1,4 @@
-### Matt Thompson is a current student at the University of Virginia who is pursuing a degree in Systems Engineering. He hopes to meld his interests in data science, software engineering, business, and the systems approach to build a successful future with his own business. 
+### Matt is a certified AWS Solutions Architect Professional and AWS Machine Learning Specialist on a mission to bring innovative solutions to the world. His expertise includes AI/ML, DevOps, and cloud infrastructure. He thrives in environments that require unique problem solving, foster self learning, and provide opportunities to teach others. 
 <!--
 **mattluthompson/mattluthompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
